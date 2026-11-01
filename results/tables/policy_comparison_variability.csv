@@ -1,0 +1,4 @@
+demand,Q_deterministic,Q_stochastic,avg_profit_det,avg_profit_stoch,diff_stoch_minus_det,diff_ci95_half_width,stockout_freq_det,stockout_freq_stoch,p5_profit_det,p5_profit_stoch
+Poisson (variance 120),120,120,76151.1,76151.1,0.0,0.0,0.475,0.475,55200.0,55200.0
+NegBin (variance 240),120,120,72737.7,72737.7,0.0,0.0,0.467,0.467,44000.0,44000.0
+NegBin (variance 480),120,119,68137.1,68163.9,26.8,17.6,0.469,0.485,29600.0,30500.0

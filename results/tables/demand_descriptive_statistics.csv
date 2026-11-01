@@ -1,0 +1,4 @@
+distribution,target_mean,target_variance,sample_mean,sample_variance,std_dev,min,p5,median,p95,max
+poisson,120,120,120.02,118.34,10.88,80,103.0,120.0,138.0,160
+negbin_var240,120,240,120.02,242.36,15.57,70,95.0,119.0,146.0,187
+negbin_var480,120,480,119.73,464.84,21.56,49,87.0,118.0,158.0,213

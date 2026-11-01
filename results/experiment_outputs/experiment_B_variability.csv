@@ -1,0 +1,5 @@
+case,mean_demand,demand_variance,critical_ratio,Q_star,Q_theory,Q_det,exp_profit_train,det_predicted_profit,test_profit_stoch,test_profit_det,diff_stoch_minus_det,diff_ci95_half_width,stockout_freq_stoch,p5_profit_stoch,max_demand_train
+Poisson (var 120),120,120,0.5,120,120,120,76195.6,84000.0,76151.06,76151.06,0.0,0.0,0.4747,55200.0,160
+NegBin (var 240),120,240,0.5,120,119,120,72949.0,84000.0,72737.72,72737.72,0.0,0.0,0.4672,44000.0,187
+NegBin (var 480),120,480,0.5,119,119,120,68390.64,84000.0,68163.92,68137.1,26.82,17.63304742194481,0.4851,30500.0,229
+NegBin (var 960),120,960,0.5,117,118,120,61969.5,84000.0,61466.32,61363.9,102.42,52.29279252803788,0.4936,11500.0,288

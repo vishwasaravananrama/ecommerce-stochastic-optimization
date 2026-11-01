@@ -1,0 +1,3 @@
+policy,Q,avg_profit,se_profit,p5_profit,median_profit,p95_profit,avg_unsold,avg_unmet,stockout_freq,model_predicted_profit
+Deterministic,120.0,76151.06,94.94,55200.0,80800.0,83800.0,4.35,4.42,0.47,84000.0
+Stochastic,120.0,76151.06,94.94,55200.0,80800.0,83800.0,4.35,4.42,0.47,76195.6

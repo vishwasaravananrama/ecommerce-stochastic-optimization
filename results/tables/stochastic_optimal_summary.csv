@@ -1,0 +1,2 @@
+distribution,num_scenarios,stochastic_optimal_Q,expected_profit_at_Q,std_error,newsvendor_theory_Q,exact_optimal_Q
+Poisson(120),10000,120,76195.6,94.8,120,120
