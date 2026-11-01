@@ -35,4 +35,24 @@ p = 1500, c = 800, h = 100, s = 200, Qmax = 500, demand ~ Poisson(120)
 - Cost changes move Q* by a few units; stochastic gains are small (at most 0.65% of profit).
 
 ## Limitations
-[2 to 3 sentences in your own words]
+Reliance on synthetic rather than real-world sales data.
+
+
+
+Limited to a single product and one sales period.
+
+
+
+Assumes predefined demand probability distributions.
+
+
+
+Does not consider supplier delays or procurement constraints.
+
+
+
+Uses fixed costs and ignores changing market conditions.
+
+
+
+Does not account for unsold inventory recovery or future demand.
